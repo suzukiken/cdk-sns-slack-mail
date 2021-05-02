@@ -5,4 +5,4 @@ To deploy SNS topic and its email and lambda subscribers which post to a Slack c
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/cdksns-slack-mail)
+[description](https://note.figmentresearch.com/aws/cdksns-slack-mail)
